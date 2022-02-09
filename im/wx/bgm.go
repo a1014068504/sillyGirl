@@ -1,7 +1,7 @@
 package wx
 
 import (
-	"github.com/douzicao/sillyGirl/core"
+	"github.com/a1014068504/sillyGirl/core"
 )
 
 var wx = core.NewBucket("wx")
