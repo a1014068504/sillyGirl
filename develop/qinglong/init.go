@@ -13,7 +13,7 @@ import (
 	"github.com/beego/beego/v2/adapter/httplib"
 	"github.com/beego/beego/v2/core/logs"
 	"github.com/buger/jsonparser"
-	"github.com/douzicao/sillyGirl/core"
+	"github.com/a1014068504/sillyGirl/core"
 )
 
 type QingLong struct {
