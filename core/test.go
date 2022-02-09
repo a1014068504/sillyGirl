@@ -207,7 +207,7 @@ func initSys() {
 							}
 							if str > compiled_at {
 								s.Reply(fmt.Sprintf("正在从%s下载更新...", prefix))
-								req := httplib.Get(prefix + "https://raw.githubusercontent.com/douzicao/binary/master/sillyGirl_linux_" + runtime.GOARCH + "_" + str)
+								req := httplib.Get(prefix + "https://raw.githubusercontent.com/a1014068504/binary/master/sillyGirl_linux_" + runtime.GOARCH + "_" + str)
 								if prefix == "" && Transport != nil {
 									req.SetTransport(Transport)
 								}
