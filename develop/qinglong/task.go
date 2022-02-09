@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/douzicao/sillyGirl/core"
+	"github.com/a1014068504/sillyGirl/core"
 )
 
 func initTask() {
