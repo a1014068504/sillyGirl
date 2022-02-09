@@ -1,7 +1,7 @@
 package qinglong
 
 import (
-	"github.com/douzicao/sillyGirl/core"
+	"github.com/a1014068504/sillyGirl/core"
 )
 
 type EnvResponse struct {
